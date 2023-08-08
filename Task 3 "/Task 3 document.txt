@@ -1,0 +1,28 @@
+A hashmap is a data structure that maps keys to their respective value pairs. 
+It makes it easy to find values that are associated with their keys. 
+There is no difference between a dictionary and a hashmap.
+In fact, to use hashmap, you need to understand Python dictionaries.
+In this article, we will explore how to use hashmap in Python and how this data structure works.
+Hash function is the core of implementing a hash map.
+It takes in the key and translates it to the index of a bucket in the bucket list.
+Ideal hashing should produce a different index for each key. However, collisions can occur.
+When hashing gives an existing index, we can simply use a bucket for multiple values by appending a list or by rehashing.
+The hash map design will include the following functions:
+set_val(key, value): Inserts a key-value pair into the hash map. If the value already exists in the hash map, update the value.
+get_val(key): Returns the value to which the specified key is mapped, or “No record found” if this map contains no mapping for the key.
+delete_val(key): Removes the mapping for the specific key if the hash map contains the mapping for the key.
+Advantages of HashMaps
+Fast random memory access through hash functions 
+Can use negative and non-integral values to access the values. 
+Keys can be stored in sorted order hence can iterate over the maps easily.
+Disadvantages of HashMaps 
+Collisions can cause large penalties and can blow up the time complexity to linear. 
+When the number of keys is large, a single hash function often causes collisions. 
+Applications of HashMaps 
+These have applications in implementations of Cache where memory locations are mapped to small sets. 
+They are used to index tuples in Database management systems. 
+They are also used in algorithms like the Rabin Karp pattern matching
+In general, a hashmap is a more efficient data structure than an array because it allows for faster insertion and retrieval of data.
+It uses hashing to store data which allows it to access and insert data in constant time on average.
+In contrast, an array must be searched sequentially in order to find a specific element, which can be time-consuming if the array is large.
+
