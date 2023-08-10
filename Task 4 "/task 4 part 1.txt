@@ -1,0 +1,26 @@
+devops: DevOps is an approach to software development tha enables teams to build,test, and release software faster and more reliably by incorporating agile principles
+and practices,such as increased automation and improved collaboration between development and operations teams. Development,testing, and deployment occur in both
+agile and DevOps.Yet traditional agile stops short of operations, which is an integral part of DevOps.The goal of DevOps is to help bring together developers who write 
+application software and operations who run the software in production. Also, to build and maintain the infrastructure where it runs.DevOps replaces the old approach
+of development teams writing applications then throwing them over the wall to an operations team who deploys and manages the software with minimal visibility into how
+it was developed.In a DevOps environment, developers and operations teams work side by side throughout the entire process of developing, deploying, and managing 
+applications.
+
+characteristics of devops: 
+1-includes the operations team.
+2-extends the focus to delivery and maintenance.
+3-focuses more on test and delivery automation.
+4-incorporates unplanned work common to operations teams.
+
+agile:Agile is an iterative approach to project management and software development that focuses on collaboration, customer feedback, and rapid releases. 
+It arose in the early 2000s from the software development industry, helping development teams react and adapt to changing market conditions and customer demands.
+In an agile approach, some planning and design is done upfront, but the development proceeds in small batches and involves close collaboration with stakeholders. 
+Changes are incorporated continuously and a usable version of a product is often released quicker compared to products developed through the waterfall methodology.
+This provides many benefits, with arguably the most important being that if software doesn’t meet the needs or expectations of the customer, it  can be remediated in
+real-time. 
+
+characteristics of agiles:
+1-emphasizes collaboration between developers and product management.
+2-centers the flow of software from ideation to code completion.
+3-emphasizes iterative development and small batches.
+4-adds structure to planned work for developers. 
