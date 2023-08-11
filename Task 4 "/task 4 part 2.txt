@@ -1,0 +1,38 @@
+                                                                        Devops tools
+DevOps Automation Tools :
+1-Jenkins
+2-Docker
+3-Puppet
+4-Apache Maven
+5-Gradle
+DevOps Pipeline Tools:
+1-CircleCI
+2-Bamboo
+3-TeamCity
+4-Travis CI
+5-Buddy
+DevOps Control Tools:
+1-Git
+2-GitHub
+3-Getbucket
+DevOps Management Tools:
+1-Chef
+2-Kubernetes
+3-Ansible
+4-Vagrant
+5-Consul
+6-Terraform
+DevOps Testing Tools:
+1-Selenium
+2-Tricentis Tosca
+3-TestSigma
+4-IBM Rational Functional Tester
+5-SoapUI
+DevOps Monitoring Tools:
+1-Nagios
+2-Prometheus
+3-New Relic
+4-PagerDuty
+5-Sensu
+6-Splunk
+7-ELK Stack
