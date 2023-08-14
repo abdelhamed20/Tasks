@@ -1,0 +1,28 @@
+John von Neumann architecture: The computer we are using nowadays is based on the von Neumann architecture.
+It has some concepts. It is also known as Princeton architecture.
+It renders a unique design for the electronic digital systems having the following components:
+
+A Central Processing Unit (CPU) with arithmetic and logic unit (ALU) and processors with attached registers.
+A memory that can store data and instructions.
+External mass storage or secondary storage.
+A Control Unit (CU) with the ability to hold instructions in the program counter (PC) or instruction register (IR).
+Input and output mechanisms and peripherals.
+
+Harvard Architecture:consists of code and data laid in distinct memory sections.
+It requires a separate memory block for data and instruction. 
+It has solely contained data storage within the Central Processing Unit (CPU). 
+A single collection of clock cycles is needed. Data accessibility in one memory is done by a single memory location in the
+case of Harvard architecture.
+One typical example is the Punch card. Moreover, modern computers may have the latest CPU processes for both methods
+but disparate them in a hardware design.
+
+comparison between the two:
+required space : harvard architecture needs more space to work. 
+Devolopment cost: harvard architecture needs more cost to be built.
+Efficiency: harvard architecture is more efficient.
+Execution speed: harvard architecture has higher speed.
+Performance offered: harvard architecture is better in performance.
+
+so in conclusion Harvard architecture is somewhat an improvisation in Von Neumann architecture by offering a
+comparatively better design thereby providing simultaneous execution
+
