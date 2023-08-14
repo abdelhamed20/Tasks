@@ -1,0 +1,20 @@
+what is a clean code:Clean code is not a set of strict rules. It is a set of principles for writing code that is easy to
+understand and modify by any experienced devoloper.
+Principles of clean code:
+
+KISS(Keep It Simple,Stupid):is one of the oldest principles of clean code. It was being used by the US military as early as
+the 1960s. KISS encourages programmers to write their code as simply as possible. You should avoid making your code
+unnecessarily complex
+
+DRY(Dont Repeat Yourself): is a more specific version of KISS. According to the DRY principle,
+functions in clean code should only do one thing within the overall system.
+
+YAGNI(You aren’t gonna need it):is based on the following idea: a developer should only introduce additional functionality
+to code when it is necessary. YAGNI is closely tied to agile software development methods. According to the YAGNI principle,
+instead of starting from an overarching concept during development, you should program the software architecture in small
+steps to be able to react to problems dynamically and individually.
+
+Readability over conciseness:Code needs to work and be understood by the machine executing it. However, 
+other developers also need to be able to understand the code, especially if you are working on a project with multiple 
+people. That is why the readability of code is always more important than its conciseness when it comes to software 
+development.
