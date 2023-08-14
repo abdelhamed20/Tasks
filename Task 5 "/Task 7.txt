@@ -1,0 +1,10 @@
+Threads: CPU switches between different threads really fast, giving a falsehood of concurrency.
+threads are running parallel, usually in different CPU core, true concurrency.When one thread is running, others are blocked
+It's a must for not instant running processes that interact with each other.
+its using a strategy of do different things together.
+
+Parallel processing:threads are running parallel, usually in different CPU core, true concurrency.
+mlutiple threads are running at any given time. It's useful for heavy computations, super long running processes.
+Same thing with a fleet of single core machines, split data into sections for each machine to compute,
+pool them together at the end.
+its using a strategy of do one thing in less time.
