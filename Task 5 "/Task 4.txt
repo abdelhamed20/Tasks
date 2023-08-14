@@ -1,0 +1,14 @@
+linux:is an open source multi-tasking, multi-user operating system. It was initially developed by Linus Torvalds in 1991.
+Linux OS is widely used in desktops, mobiles, mainframes.
+
+Unix:is multi-tasking, multi-user operating system but is not free to use and is not open source.
+It was developed in 1969 by Ken Thompson team at AT&T Bell Labs. It is widely used on servers, workstations
+
+comparisons between them:
+cost:linux is free to use but unix is licensed.
+Usage: Linux is used in wide varieties from desktop, servers, smartphones to mainframes but unix is mostly used on servers,
+workstations or PCs.
+
+examples:
+linux:Ubuntu, Debian GNU, Arch Linux
+Unix:SunOS, Solaris, SCO UNIX, AIX, HP/UX, ULTRIX 
