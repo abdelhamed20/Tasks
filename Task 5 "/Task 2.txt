@@ -1,0 +1,19 @@
+Languages support auto garbage collection:
+1-Lisp 
+2-Java
+3-scala 
+4-Python
+5-.NET
+6-C#
+7-Ruby
+8- D
+9-OCaml
+10-Swift
+11-ML
+12-Haskell
+13-Eiffel
+14-Modula-3
+15-Perl
+16-Prolog
+17-Scheme
+18-Smalltalk
