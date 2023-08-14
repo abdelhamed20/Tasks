@@ -1,0 +1,9 @@
+what is BIOS:
+BIOS is a program, stands for basic input/output system, which is stored in nonvolatile memory like ROM
+(Read Only Memory) that allows you to set up and access your computer system at the greatest basic level.
+It is found on motherboards that are a pre-installed program on Windows-based computers that executes when a computer
+is powered up. Before an OS is loaded, the CPU accesses the basic input/output system (BIOS). Then, the next function of
+BIOS is to examine all the hardware connections and detects all your devices.
+why do we use it:
+A BIOS contains the instructions your computer needs to load its basic hardware, including the POST mentioned above.
+If your system fails the POST,you will hear a series of beeps; different beep sequences indicate various issues.
