@@ -1,0 +1,16 @@
+what is fragmentation :Fragmentation is an unwanted problem in the operating system in which the processes are loaded and
+unloaded from memory, and free memory space is fragmented. Processes can't be assigned to memory blocks due to their small
+size, and the memory blocks stay unused. It is also necessary to understand that as programs are loaded and deleted from 
+memory, they generate free space or a hole in the memory. These small blocks cannot be allotted to new arriving processes, 
+resulting in inefficient memory use.
+
+types of fragmentation :
+
+1- Internal Fragmentation: When a process is allocated to a memory block, and if the process is smaller than the amount
+of memory requested, a free space is created in the given memory block. Due to this, the free space of the memory block 
+is unused, which causes internal fragmentation.
+
+2-External Fragmentation: External fragmentation happens when a dynamic memory allocation method allocates some memory
+but leaves a small amount of memory unusable. The quantity of available memory is substantially reduced if there is 
+too much external fragmentation. There is enough memory space to complete a request, but it is not contiguous. 
+It's known as external fragmentation.
