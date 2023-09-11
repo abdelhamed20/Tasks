@@ -1,0 +1,15 @@
+types of data distributions:
+1-Discrete uniform distribution
+2-Bernoulli Distribution
+3-Binomial Distribution
+4-Poisson Distribution
+5-Normal Distribution
+6-Student t-Test Distribution
+7-Exponential distribution
+
+density function types:
+1-Normal Distribution
+2-Standard Normal Distribution
+3-Student - t Distribution
+4-Chi-Square Distribution
+5-Continuous Uniform Distribution

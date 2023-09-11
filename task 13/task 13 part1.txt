@@ -1,0 +1,12 @@
+Non-probability sampling: is a sampling technique in which the researcher selects samples based on the subjective judgment
+of the researcher rather than random selection. It is a less stringent method. This sampling method depends heavily on
+the expertise of the researchers. It is carried out by observation, and researchers use it widely for qualitative research.
+and its a method in which not all population members have an equal chance of participating in the study and Each member
+of the population has a known chance of being selected
+
+the methods of Non-probability sampling:
+1-Convenience sampling
+2-Consecutive sampling
+3-Quota sampling
+4-Judgmental or Purposive sampling
+5-Snowball sampling
