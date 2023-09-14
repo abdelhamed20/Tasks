@@ -1,0 +1,21 @@
+Types of statistical tests:
+
+1-Parametric tests:
+when to use them:They can only be conducted with data that adheres to the common assumptions of statistical tests.
+exampls:
+1-Regression tests
+2-Correlation tests
+3-Comparison tests
+
+
+2-nonparametric test:
+when to use them:when one or more of the common statistical assumptions are violated.
+exampls:
+1-Spearman’s r
+2-Chi square test of independence
+3-Sign test
+4-Kruskal–Wallis H
+5-ANOSIM
+6-Wilcoxon Rank-Sum test
+7-Wilcoxon Signed-rank test
+

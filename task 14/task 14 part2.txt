@@ -1,0 +1,3 @@
+P-Value:is the probability of obtaining results at least as extreme as the observed results of a statistical hypothesis test,
+assuming that the null hypothesis is correct.it serves as an alternative to rejection points to provide the smallest level
+of significance at which the null hypothesis would be rejected
